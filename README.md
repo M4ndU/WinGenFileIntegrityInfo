@@ -23,7 +23,7 @@ You can choose one of the three options
 - add sha2 context menu
 - delete md5+sha1 context menu
 
-
+The installation files in the paperclip_lib_ver folder use the piperclip library instead of the tkinter library, and install the piperclip library automatically.
 
 ## How to uninstall
 Double click GenFileIntegInfo_uninstall.py
@@ -42,6 +42,9 @@ Double click GenFileIntegInfo_uninstall.py
 
 ![image](https://user-images.githubusercontent.com/33446356/218667940-635f2e06-f0d7-412e-8665-f48ce8793846.png)
 
+1. Or Run the program from CMD, which is run by administrator privileges.
+
+![image](https://user-images.githubusercontent.com/33446356/222165017-d9b7badd-c5b4-4090-bdd2-5252fdd2c721.png)
 
 
 ## structure
